@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kistarter data to uncover trends
 
-# Analysis and Challenges
+# Analysis
   Within this project an analysis of Kickstarter projects comared to Launch dates and Goals. In order to compare launch dates a pivot table was created and filtered to show theater releases by month
   
   ![Launch Dates Pivot Table](Resources/pivot_table_launch_dates.png)
